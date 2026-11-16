@@ -14,3 +14,4 @@ Thumbs.db
 .env.local
 /coverage
 .phpunit.cache
+.env.production
